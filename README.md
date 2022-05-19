@@ -1,4 +1,8 @@
 # Pokedex
+A simple pokemon cards dashboard using React.js
+
+![image](https://user-images.githubusercontent.com/67184825/169314973-905a289f-e04e-4589-9cc3-3482610194fe.png)
+
 
 ## Getting Started with Create React App
 

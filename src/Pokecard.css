@@ -1,0 +1,53 @@
+.Pokecard {
+    display: inline-block;
+    height: 23em;
+    width: 15em;
+    padding: 15px;
+    margin: 10px;
+    background-color: #ddd;
+    border-radius: 5%;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: lavender;
+}
+
+.Pokecard:hover {
+    box-shadow: 0 0 15px #444;
+}
+
+.card-name {
+    font-size: 2em;
+    border-bottom: 2px midnightblue solid;
+    padding-bottom: 10px;
+    color: midnightblue;
+    font-family: Verdana, sans-serif;
+}
+
+.card-img {
+    width: 10em;
+    height: 10em;
+    margin: 0 auto;
+
+}
+
+.card-img:hover {
+    transform: scale(1.25);
+    transition-delay: 2ms;
+    transition-duration: 0.8s;
+}
+
+.card-type {
+    font-size: 1.2em;
+    font-weight: 600;
+    border-top: 2px darkred solid;
+    padding-top: 10px;
+    color: darkred;
+    font-family: cursive, Tahoma;
+}
+
+.card-xp {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: darkred;
+    font-family: cursive, Tahoma;
+}

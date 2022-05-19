@@ -1,0 +1,22 @@
+.Pokedex-winner {
+    color: green;
+}
+
+.Pokedex-loser {
+    color: red;
+}
+
+.total-exp {
+    color: indigo;
+    font-weight: 700;
+    font-family: cursive;
+    font-size: 16px;
+}
+
+.Pokedex {
+    background-color: beige;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    border: 2px royalblue solid;
+    text-align: center;
+}
